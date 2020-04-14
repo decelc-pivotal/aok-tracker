@@ -1,0 +1,6 @@
+[submodule "aok-tracker-events"]
+	path = aok-tracker-events
+	url = https://github.com/decelc-pivotal/aok-tracker-events.git
+[submodule "aok-tracker-events-ui"]
+	path = aok-tracker-events-ui
+	url = https://github.com/decelc-pivotal/aok-tracker-events-ui.git
